@@ -5,8 +5,8 @@ layout: default
 <style>
 .page-title {
   text-align: center;
-  font-size: 3em;
-  font-weight: 500;
+  font-size: 3.5em;
+  font-weight: 400;
   margin-bottom: 30px;
   margin-top: 0;
   border: none !important;
@@ -22,7 +22,7 @@ layout: default
 }
 
 .profile-container img {
-  width: 350px;
+  width: 300px;
   height: auto;
   border-radius: 0;
   flex-shrink: 0;
