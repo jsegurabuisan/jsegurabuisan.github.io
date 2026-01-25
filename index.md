@@ -83,7 +83,8 @@ header {
   <img src="/assets/img/profile.jpg" alt="Juan Segura">
   
   <div class="profile-text">
-    <p>I am a PhD candidate at CEMFI. My research focuses on Macroeconomics, Firm dynamics and Endogenous Growth.</p>
+    <p>I am a PhD candidate at CEMFI.</p>
+    <p>My research focuses on Macroeconomics, Firm dynamics and Endogenous Growth.</p>
     
     <p>You can find my CV <a href="/cv/CV_Segura.pdf"><strong>here</strong></a>.</p>
     
