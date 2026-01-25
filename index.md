@@ -9,6 +9,8 @@ layout: default
   font-weight: bold;
   margin-bottom: 30px;
   margin-top: 0;
+  border: none !important;
+  padding-bottom: 0 !important;
 }
 
 .profile-container {
@@ -46,9 +48,21 @@ layout: default
   margin: 40px 0 30px 0;
 }
 
+/* Remove all header borders */
+h1, h2, h3, h4, h5, h6 {
+  border-bottom: none !important;
+  border-top: none !important;
+  padding-bottom: 0 !important;
+}
+
 header {
   border-bottom: none !important;
   border-top: none !important;
+}
+
+.site-header {
+  border-top: none !important;
+  border-bottom: none !important;
 }
 
 @media (max-width: 768px) {
