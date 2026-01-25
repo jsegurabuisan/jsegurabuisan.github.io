@@ -6,7 +6,7 @@ layout: default
 .profile-container {
   display: flex;
   align-items: flex-start;
-  gap: 50px;
+  gap: 60px;
   margin-bottom: 40px;
   margin-left: 0;
 }
