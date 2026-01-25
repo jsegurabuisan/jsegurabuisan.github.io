@@ -6,19 +6,41 @@ layout: default
 .profile-container {
   display: flex;
   align-items: flex-start;
-  gap: 30px;
+  gap: 50px;
   margin-bottom: 40px;
+  margin-left: 0;
 }
 
 .profile-container img {
-  width: 250px;
+  width: 350px;
   height: auto;
-  border-radius: 8px;
+  border-radius: 0;
   flex-shrink: 0;
+  margin-left: 0;
 }
 
 .profile-text {
   flex: 1;
+}
+
+.profile-text h1 {
+  font-size: 2.5em;
+  margin-top: 0;
+}
+
+.section-divider {
+  width: 100%;
+  border: 0;
+  height: 1px;
+  background-color: #ccc;
+  margin: 40px 0;
+}
+
+.research-title {
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: bold;
+  margin: 40px 0 30px 0;
 }
 
 @media (max-width: 768px) {
@@ -27,7 +49,7 @@ layout: default
   }
   
   .profile-container img {
-    width: 200px;
+    width: 250px;
   }
 }
 </style>
@@ -48,7 +70,9 @@ layout: default
   </div>
 </div>
 
----
+<hr class="section-divider">
+
+<div class="research-title">Research</div>
 
 ## Work in Progress
 
