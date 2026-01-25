@@ -22,7 +22,7 @@ layout: default
 }
 
 .profile-container img {
-  width: 350px;
+  width: 300px;
   height: auto;
   border-radius: 0;
   flex-shrink: 0;
