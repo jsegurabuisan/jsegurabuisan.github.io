@@ -5,8 +5,8 @@ layout: default
 <style>
 .page-title {
   text-align: center;
-  font-size: 2.5em;
-  font-weight: bold;
+  font-size: 3em;
+  font-weight: 500;
   margin-bottom: 30px;
   margin-top: 0;
   border: none !important;
@@ -22,7 +22,7 @@ layout: default
 }
 
 .profile-container img {
-  width: 300px;
+  width: 350px;
   height: auto;
   border-radius: 0;
   flex-shrink: 0;
@@ -83,15 +83,13 @@ header {
   <img src="/assets/img/profile.jpg" alt="Juan Segura">
   
   <div class="profile-text">
-    <p>I am a PhD candidate at CEMFI.<p>
-      
-    <p>My research focuses on Macroeconomics, Firm dynamics and Endogenous Growth.</p>
+    <p>I am a PhD candidate at CEMFI. My research focuses on Macroeconomics, Firm dynamics and Endogenous Growth.</p>
     
     <p>You can find my CV <a href="/cv/CV_Segura.pdf"><strong>here</strong></a>.</p>
     
     <p><strong>Contact information:</strong><br>
     E-mail: <a href="mailto:juan.segura@cemfi.edu.es"><strong>juan.segura@cemfi.edu.es</strong></a><br>
-    Twitter: @jsegura_b</p>
+    Twitter: <a href="https://twitter.com/jsegura_b">@jsegura_b</a></p>
   </div>
 </div>
 
