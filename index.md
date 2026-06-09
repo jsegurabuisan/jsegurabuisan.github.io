@@ -103,4 +103,6 @@ header {
 **"Financial Frictions, Innovation and Growth"**  
 with Andrea Guccione
 
+**"Adjustment Beyond the Firm: Subcontracting and Firm Dynamics"**
+
 **"The Role of Market Power in Capital Taxation"**
