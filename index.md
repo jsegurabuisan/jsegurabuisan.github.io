@@ -100,9 +100,9 @@ header {
 
 ## Work in Progress
 
-**"Financial Frictions, Innovation and Growth"**  
-with Andrea Guccione
+**"Production Beyond the Firm: The Aggregate Value of Subcontracting"**
 
-**"Adjustment Beyond the Firm: Subcontracting and Firm Dynamics"**
+**"Finance, Innovation and Growth"**  
+with Andrea Guccione
 
 **"The Role of Market Power in Capital Taxation"**
