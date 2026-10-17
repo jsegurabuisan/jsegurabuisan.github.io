@@ -102,7 +102,7 @@ header {
 
 **"Production Beyond the Firm: The Aggregate Value of Subcontracting"**
 
-**"Finance, Innovation and Growth"**  
+**"Finance, Innovation and Growth"**  ∫
 with Andrea Guccione
 
-**"The Role of Market Power in Capital Taxation"**
+**["The Role of Market Power in Capital Taxation"](/papers/Segura_Taxation.pdf)**
