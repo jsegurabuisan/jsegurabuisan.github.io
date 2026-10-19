@@ -65,6 +65,11 @@ header {
   border-bottom: none !important;
 }
 
+/* Hide the link icon the theme adds next to section headings on hover */
+.anchorjs-link {
+  display: none !important;
+}
+
 /* Links in the Research section (paper titles, coauthors): same look as the text, blue on hover */
 .research-title ~ p a:not(:hover) {
   color: inherit !important;
