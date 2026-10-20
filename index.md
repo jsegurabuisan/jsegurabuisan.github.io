@@ -158,6 +158,12 @@ details.abstract p {
 
 ## Working Papers
 
+**["Production Beyond the Firm: The Aggregate Value of Subcontracting"](/papers/Segura_JMP.pdf)** (JMP)
+
+<details class="abstract"><summary>Abstract</summary>
+<p>This paper studies the macroeconomic effects of subcontracting, the practice of delegating production to external firms. Using administrative data on Portuguese firms, I show that a large share of aggregate input spending goes to subcontracting. Larger firms are more likely to subcontract, and those that subcontract do so more intensively. Subcontracting is unique among inputs in how much it moves with output: its expenses have an elasticity of 1.4 with respect to firm-level sales. I build a model of firm dynamics with labor adjustment frictions and task delegation. Firms subcontract for two reasons: flexibility, because delegating production allows them to circumvent adjustment frictions, and specialization, because the subcontractor is more efficient at performing certain tasks. Subcontracting raises aggregate productivity by 4.5%. Flexibility accounts for about a fifth of this gain, by letting firms’ size track their productivity more closely, and specialization for the remainder. Ignoring subcontracting overstates the productivity losses from firing costs by a fifth, and their output losses by half. Moreover, subcontracting allows firms to absorb idiosyncratic shocks, but its flexibility largely vanishes under aggregate ones.</p>
+</details>
+
 **["Financing the Scale-Up: Equity and Innovation"](/papers/Guccione_Segura_ScaleUp.pdf)** 
 with [Andrea Guccione](https://andreaguccione.github.io/)
 
@@ -171,13 +177,7 @@ with [Andrea Guccione](https://andreaguccione.github.io/)
 <p>Taxing wealth and taxing capital income are not equivalent when returns to investment are heterogeneous. Which tax is preferable depends on the source of this heterogeneity. I compare the two taxes in a model where entrepreneurs face collateral constraints and charge heterogeneous markups. I calibrate the model to the US under different levels of market power within the range of reported values. Replacing the capital income tax with a revenue-neutral wealth tax raises welfare when markups are low, but lowers it when they are high. Together with financial frictions, market power matters through two channels. First, entrepreneurs who grow out of their collateral constraints charge higher markups, which limits the efficiency gains from taxing wealth. Second, profits are part of the capital income tax base but not of the wealth tax base. Profits rise with markups, and so does the wealth tax rate that keeps government revenue constant, thus lowering most households’ return to saving and capital accumulation. The second channel is more sensitive to aggregate market power and explains most of the differences across economies. Once transitions are accounted for, taxing wealth still raises welfare only when markups are lowest, but only slightly.</p>
 </details>
 
-## Work in Progress
-
-**"Production Beyond the Firm: The Aggregate Value of Subcontracting"** (JMP)
-
-<details class="abstract"><summary>Abstract</summary>
-<p>This paper studies the macroeconomic effects of subcontracting, the practice of delegating production to external firms. Using administrative data on Portuguese firms, I show that a large share of aggregate input spending goes to subcontracting. Larger firms are more likely to subcontract, and those that subcontract do so more intensively. Subcontracting is unique among inputs in how much it moves with output: its expenses have an elasticity of 1.4 with respect to firm-level sales. I build a model of firm dynamics with labor adjustment frictions and task delegation. Firms subcontract for two reasons: flexibility, because delegating production allows them to circumvent adjustment frictions, and specialization, because the subcontractor is more efficient at performing certain tasks. Subcontracting raises aggregate productivity by 4.5%. Flexibility accounts for about a fifth of this gain, by letting firms’ size track their productivity more closely, and specialization for the remainder. Ignoring subcontracting overstates the productivity losses from firing costs by a fifth, and their output losses by half. Moreover, subcontracting allows firms to absorb idiosyncratic shocks, but its flexibility largely vanishes under aggregate ones.</p>
-</details>
+<!-- ## Work in Progress -->
 
 <script>
 /* Open every link in a new tab, except e-mail links */
