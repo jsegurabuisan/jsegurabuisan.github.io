@@ -142,7 +142,7 @@ details.abstract p {
   
   <div class="profile-text">
     <p>I am a PhD candidate at CEMFI.</p>
-    <p>My research focuses on Macroeconomics, Firm dynamics and Endogenous Growth.</p>
+    <p>My research focuses on Macroeconomics, Firm dynamics, and Economic Growth.</p>
     
     <p>You can find my CV <a href="/cv/CV_Segura.pdf"><strong>here</strong></a>.</p>
     
@@ -164,7 +164,7 @@ details.abstract p {
 <p>This paper studies the macroeconomic effects of subcontracting, the practice of delegating production to external firms. Using administrative data on Portuguese firms, I show that a large share of aggregate input spending goes to subcontracting. Larger firms are more likely to subcontract, and those that subcontract do so more intensively. Subcontracting is unique among inputs in how much it moves with output: its expenses have an elasticity of 1.4 with respect to firm-level sales. I build a model of firm dynamics with labor adjustment frictions and task delegation. Firms subcontract for two reasons: flexibility, because delegating production allows them to circumvent adjustment frictions, and specialization, because the subcontractor is more efficient at performing certain tasks. Subcontracting raises aggregate productivity by 4.5%. Flexibility accounts for about a fifth of this gain, by letting firms’ size track their productivity more closely, and specialization for the remainder. Ignoring subcontracting overstates the productivity losses from firing costs by a fifth, and their output losses by half. Moreover, subcontracting allows firms to absorb idiosyncratic shocks, but its flexibility largely vanishes under aggregate ones.</p>
 </details>
 
-**["Financing the Scale-Up: Equity and Innovation"](/papers/Guccione_Segura_ScaleUp.pdf)** 
+**["Financing the Scale-Up: Equity, Innovation and Economic Growth"](/papers/Guccione_Segura_ScaleUp.pdf)** 
 with [Andrea Guccione](https://andreaguccione.github.io/)
 
 <details class="abstract"><summary>Abstract</summary>
