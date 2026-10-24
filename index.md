@@ -22,7 +22,7 @@ layout: default
 }
 
 .profile-container img {
-  width: 300px;
+  width: 256px;
   height: auto;
   border-radius: 0;
   flex-shrink: 0;
@@ -141,14 +141,14 @@ details.abstract p {
   <img src="/assets/img/profile.jpg" alt="Juan Segura">
   
   <div class="profile-text">
-    <p>I am a PhD candidate at CEMFI.</p>
-    <p>My research focuses on Macroeconomics, Firm dynamics, and Economic Growth.</p>
+    <p>I am a PhD candidate in Economics at CEMFI. My research focuses on Macroeconomics, Firm dynamics, and Economic Growth. I study how heterogeneity and frictions at the firm level shape aggregate productivity, growth and the effects of policy.</p>
+    <p><strong>I am on the 2026–2027 academic job market.</strong></p>
     
     <p>You can find my CV <a href="/cv/CV_Segura.pdf"><strong>here</strong></a>.</p>
     
     <p><strong>Contact information:</strong><br>
     E-mail: <a href="mailto:juan.segura@cemfi.edu.es"><strong>juan.segura@cemfi.edu.es</strong></a><br>
-    Twitter: <a href="https://twitter.com/jsegura_b">@jsegura_b</a></p>
+    Address: CEMFI, Casado del Alisal 5, 28014 Madrid, Spain</p>
   </div>
 </div>
 
