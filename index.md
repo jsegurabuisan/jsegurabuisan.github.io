@@ -126,6 +126,7 @@ details.abstract p {
   
   .profile-container img {
     width: 250px;
+    align-self: center;
   }
 
   .section-divider {
